@@ -11,6 +11,9 @@ ProjectZephyr/Content/ScienceLab
 ProjectZephyr/Saved/
 ProjectZephyr/Intermediate/
 ProjectZephyr/Content/Realistic_Starter_VFX_Pack_Niagara
+ProjectZephyr/Content/Realistic_Starter_VFX_Pack_Vol2
+ProjectZephyr/Content/Scifi_Cor_Btm_v2
+ProjectZephyr/Content/Lightning_Electricity_Pack
 Content/Megascans_2k
 Content/Megascans_4k
 Content/ModSci_Engineer
@@ -21,6 +24,10 @@ Content/SoulCity
 Content/SpaceshipInterior
 Content/STF
 Content/ScienceLab
+Content/Scifi_Cor_Btm_v2
 Content/Realistic_Starter_VFX_Pack_Niagara
+Content/Realistic_Starter_VFX_Pack_Vol2
+Content/Lightning_Electricity_Pack
 Saved/
 Intermediate/
+Intermediate/Config
