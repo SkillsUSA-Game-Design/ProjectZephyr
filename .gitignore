@@ -47,3 +47,5 @@ Plugins/
 Binaries/
 Build/
 Config/
+Content/MarketAssets/EF_Barbra/Common/MasterMaterial/CleanMetal_MasterMat.uasset
+*.uasset
